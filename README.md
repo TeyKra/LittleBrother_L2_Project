@@ -1,2 +1,2 @@
-# Projet_LittleBrother_L2
+# LittleBrother_L2_Project
 Projet création d'une alarme EFREI_L2
